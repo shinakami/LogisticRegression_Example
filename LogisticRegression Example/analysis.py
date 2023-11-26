@@ -4,7 +4,7 @@ import pandas as pd
 # 转换 "totals" 列的数据类型
 
 font = FontProperties(fname=r'NotoSansTC-VariableFont_wght.ttf')
-df = pd.read_csv('外包_Homework _ (鍾旭哲).csv', encoding='utf-8')
+df = pd.read_csv('Processed_Data.csv', encoding='utf-8')
 
 
 # 品牌銷售額比較
